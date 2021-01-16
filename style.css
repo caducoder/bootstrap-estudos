@@ -1,0 +1,37 @@
+body{
+    font:20px Arial serif;
+}
+
+.navbar{
+    background-color: #0fa530;
+}
+
+.quem-somos{
+    background-color: rgb(67, 67, 223);
+    color: white;
+}
+
+.padding{
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+
+.parceiros{
+    background-color: rgb(63, 63, 163);
+    color: white;
+}
+
+.bg-footer{
+    background-color: black;
+    color: white;
+    padding-top: 50px;
+}
+
+#git{
+    text-decoration: none;
+    color: white;
+}
+
+#git:hover{
+    color: #aaa;
+}
